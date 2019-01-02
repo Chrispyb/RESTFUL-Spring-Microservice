@@ -1,0 +1,4 @@
+rootProject.name = 'RESTFUl-Spring-Microservice'
+
+include 'rest-microservice'
+include 'eureka-service-registry'
